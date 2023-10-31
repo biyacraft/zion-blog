@@ -7,7 +7,7 @@ import { ThemeContextProvider } from '@/context/Themecontext'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Blog App',
+  title: 'ABBII',
   description: 'The best blog app!',
 }
 
